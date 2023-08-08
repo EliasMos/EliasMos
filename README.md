@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do EliasMos 😁
-
+<p> Frontend Developer </p>
  <div>
    <a href="https://github.com/eliasmos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasmos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
