@@ -1,7 +1,7 @@
 # Bem-vindo(a) ao perfil do Elias Mos 😁
  
  <div>
-   <h2> Frontend Developer e futuro full stack </h2>
+   <h2> Frontend Developer e futuro Full Stack </h2>
     <p> atuo como desenvolvedor júnior, e seria um prazer te ajudar arrumar esses códigos aí haha Tenho o poder de estruturar páginas por conta própria, por um preço justo posso mudar sua página, bloco a bloco, vamos construir um castelo de códigos juntos </p> 
    <a href="https://github.com/eliasmos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasmos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
