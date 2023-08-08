@@ -6,6 +6,12 @@
    <a href="https://github.com/eliasmos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasmos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmos&layout=compact&langs_count=6&theme=cobalt"/>
+    
+📌 Ao longo do último ano, tenho me dedicado intensamente ao estudo do Desenvolvimento Web, aprimorando minhas habilidades no Front-end e almejando me tornar um desenvolvedor Full-Stack.
+
+🧠 Possuo conhecimentos sólidos em HTML, CSS, JavaScript, ReactJS, NodeJS, Git e GitHub.
+    
+📚 Estou sempre em busca de aprendizado contínuo e evolução constante. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades.
 
 </div>
 <div style="display: inline_block"><br>
@@ -17,7 +23,7 @@
  <br>
  
   ### Bora me conhecer um pouco mais, me siga nas redes sociais! Manda uma mensagem, curte uma foto, sou legal!
- 
+
 <div> 
   <a href="https://www.youtube.com/channel/UC0OslN08XXQvNBoZYqUZw-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/elias__mos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
