@@ -1,6 +1,8 @@
 ## Bem-vindo(a) ao perfil do EliasMos 😁
-<p> Frontend Developer </p>
+ 
  <div>
+   <h1> Frontend Developer </h1>
+    <p> atuo como desenvolvedor júnior, e seria um prazer te ajudar arrumar esses códigos aí haha Tenho o poder de estruturar páginas por conta própria, por um preço justo posso mudar sua página, bloco a bloco, vamos construir um castelo de códigos juntos </p> 
    <a href="https://github.com/eliasmos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasmos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmos&layout=compact&langs_count=6&theme=cobalt"/>
@@ -14,7 +16,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### PSe você quise me conhecer um pouco mais, me siga nas redes abaixo! Manda uma mensagem curte uma foto, sou legal!
  
 <div> 
   <a href="https://www.youtube.com/channel/UC0OslN08XXQvNBoZYqUZw-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
