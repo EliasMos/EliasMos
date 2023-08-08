@@ -6,7 +6,8 @@
    <a href="https://github.com/eliasmos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasmos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmos&layout=compact&langs_count=6&theme=cobalt"/>
-    
+   </div>
+    <div>
    <p>
 📌 Ao longo do último ano, tenho me dedicado intensamente ao estudo do Desenvolvimento Web, aprimorando minhas habilidades no Front-end e almejando me tornar um desenvolvedor Full-Stack.
 
